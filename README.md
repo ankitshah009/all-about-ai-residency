@@ -27,5 +27,5 @@ AI residency programs information
 
 #### Google Brain Residency - https://www.quora.com/How-should-I-prepare-for-the-interview-of-Google-Brain-Residency-program-in-terms-of-number-of-rounds-of-interview-topics-for-which-I-should-prepare-and-a-typical-profile-required-to-increase-the-chance-of-being-selected
 
-
+#### Google AI residency - https://docs.google.com/document/d/14nNwC1T0oANp4qFYeKupGh4w5lZUDmA9jUMi2YW7Z7k/edit?usp=sharing
 
