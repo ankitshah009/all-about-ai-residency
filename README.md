@@ -5,7 +5,7 @@ AI residency programs information
 
 ## Companies and their program links
 
-#### Uber AI Residency - https://eng.uber.com/uber-ai-residency/
+#### Uber AI Residency - https://eng.uber.com/uber-ai-residency/ - 2019 link - https://eng.uber.com/ai-residency-2019/
 
 #### Facebook AI Residency - https://research.fb.com/programs/facebook-ai-research-residency-program/
 
