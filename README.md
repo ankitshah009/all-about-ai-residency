@@ -187,3 +187,8 @@ Japanese software development company Preferred Networks also organized a 4-mont
 - Machine Learning Fellow [[Link](https://jobs.lever.co/openai/54ddfefe-6483-4bba-a828-11a156eae7eb)]
 - OpenAI Fellow Fall 2018 [[Link](https://blog.openai.com/openai-fellows/)]
 
+### Comments
+
+- Feel free to send pull requests for the repository. 
+- Plan to keep this updated in the long term
+- Credits - Some content is adapted from Awesome AI Residency repository (https://github.com/dangkhoasdc/awesome-ai-residency)
