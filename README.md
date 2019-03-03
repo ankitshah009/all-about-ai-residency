@@ -166,6 +166,13 @@ Japanese software development company Preferred Networks also organized a 4-mont
 - [Microsoft AI Interview questions](https://medium.com/acing-ai/microsoft-ai-interview-questions-acing-the-ai-interview-be6972f790ea)
 - [Writing a Google AI Residency Cover Letter](https://colinraffel.com/blog/writing-a-google-ai-residency-cover-letter.html)
 
+### Reddit Links
+
+- [Google AI Residency Discussion 2019]( https://www.reddit.com/r/MachineLearning/comments/9uyzc1/d_google_ai_residency_2019_applicants_discussion/.)
+- [AI Residency Discussion 2019](https://www.reddit.com/r/MachineLearning/comments/9uaz3m/d_2019_ai_residency_thread_program_deadlines/)
+- [Facebook AI Residency 2019 updates](https://www.reddit.com/r/MachineLearning/comments/ava6ou/d_has_anyone_heard_from_facebook_ai_residency_for/)
+- [Facebook AI Residency 2018 updates](https://www.reddit.com/r/MachineLearning/comments/7w5unr/d_has_anybody_heard_back_from_facebook_ai/)
+
 ## 2018
 
 ### Programs
