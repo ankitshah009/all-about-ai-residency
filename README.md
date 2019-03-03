@@ -34,6 +34,7 @@
 [[Link 2](https://www.reddit.com/r/MachineLearning/comments/7xxng0/d_anyone_hear_back_from_facebook_ai_research_fair/)],
 [[Link 3](https://www.reddit.com/r/MachineLearning/comments/7t9y9f/discussion_facebook_ai_residency_closed_early/)], [[Link4](https://www.reddit.com/r/MachineLearning/comments/ava6ou/d_has_anyone_heard_from_facebook_ai_residency_for/)], [[2018-Discussion Link](https://www.reddit.com/r/MachineLearning/comments/7w5unr/d_has_anybody_heard_back_from_facebook_ai/)]
 - Uber AI Residency Program: [[Link](https://www.reddit.com/r/MachineLearning/comments/7yycov/d_introducing_the_uber_ai_residency/)]
+- IBM AI Redidency Program [[Link](https://www.reddit.com/user/rockstar0404/comments/ariclc/ibm_ai_residency_2019/)]
 
 
 ### Quora
