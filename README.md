@@ -24,18 +24,21 @@
 ### How to prepare
 
 - Google Brain Residency [[Link](https://www.quora.com/How-should-I-prepare-for-the-interview-of-Google-Brain-Residency-program-in-terms-of-number-of-rounds-of-interview-topics-for-which-I-should-prepare-and-a-typical-profile-required-to-increase-the-chance-of-being-selected)]
+- Jeff Dean's talk on residency [[Link](https://www.reddit.com/r/MachineLearning/comments/55c4id/jeff_dean_talks_google_brain_and_brain_residency/)]
+
 
 ### Reddit
 - 2019 AI Residency Thread [[Link](https://www.reddit.com/r/MachineLearning/comments/9uaz3m/d_2019_ai_residency_thread_program_deadlines)]
-- Google AI Residency Program: [[Link 1](https://www.reddit.com/r/MachineLearning/comments/7rajic/d_anyone_heard_back_from_google_ai_residency/),[2019-discussion Link](https://www.reddit.com/r/MachineLearning/comments/9uyzc1/d_google_ai_residency_2019_applicants_discussion/)],
+- Google AI Residency Program: [[Link 1](https://www.reddit.com/r/MachineLearning/comments/7rajic/d_anyone_heard_back_from_google_ai_residency/),[2019-discussion Link](https://www.reddit.com/r/MachineLearning/comments/9uyzc1/d_google_ai_residency_2019_applicants_discussion/)],[[2018 - onsite discussion](https://www.reddit.com/r/MachineLearning/comments/7y7x1o/d_anyone_going_on_the_onsite_for_google_ai/)],
 [[Link 2](https://www.reddit.com/r/MachineLearning/comments/690ixs/d_google_brain_residency_requirements_and/)],
-- Microsoft AI Residency Program [[Link 1](https://www.reddit.com/r/MachineLearning/comments/7u2a19/news_microsoft_ai_residency/)], [[2019 Discussion Link](https://www.reddit.com/r/MachineLearning/comments/ahshx7/d_microsoft_ai_residency_2019_discussion/?st=jrc52rte&sh=33ed04bf)],[[2018 Discussion](https://www.reddit.com/r/MachineLearning/comments/7u2a19/news_microsoft_ai_residency/)]
+- Microsoft AI Residency Program [[Link 1](https://www.reddit.com/r/MachineLearning/comments/7u2a19/news_microsoft_ai_residency/)], [[2019 Discussion Link](https://www.reddit.com/r/MachineLearning/comments/ahshx7/d_microsoft_ai_residency_2019_discussion/?st=jrc52rte&sh=33ed04bf)],[[2018 Discussion](https://www.reddit.com/r/MachineLearning/comments/7u2a19/news_microsoft_ai_residency/)],[[2018 heard back](https://www.reddit.com/r/MachineLearning/comments/8b5np9/d_has_any_one_heard_back_from_microsoft_ai/)]
 - Facebook AI Residency Program [[Link 1](https://www.reddit.com/r/MachineLearning/comments/7w5unr/d_has_anybody_heard_back_from_facebook_ai/)],
 [[Link 2](https://www.reddit.com/r/MachineLearning/comments/7xxng0/d_anyone_hear_back_from_facebook_ai_research_fair/)],
 [[Link 3](https://www.reddit.com/r/MachineLearning/comments/7t9y9f/discussion_facebook_ai_residency_closed_early/)], [[Link4](https://www.reddit.com/r/MachineLearning/comments/ava6ou/d_has_anyone_heard_from_facebook_ai_residency_for/)], [[2018-Discussion Link](https://www.reddit.com/r/MachineLearning/comments/7w5unr/d_has_anybody_heard_back_from_facebook_ai/)]
 - Uber AI Residency Program: [[Link](https://www.reddit.com/r/MachineLearning/comments/7yycov/d_introducing_the_uber_ai_residency/)],[[Hackerrank test 2019](https://www.reddit.com/r/artificial/comments/ajc9x1/uber_residency_hackerrank_test/)], [[2019 - Response](https://www.reddit.com/r/artificial/comments/any7h5/uber_ai_residency_response/)]
-- IBM AI Redidency Program [[Link](https://www.reddit.com/user/rockstar0404/comments/ariclc/ibm_ai_residency_2019/)]
+- IBM AI Residency Program [[Link](https://www.reddit.com/user/rockstar0404/comments/ariclc/ibm_ai_residency_2019/)]
 - Google Brain AI Residency [[Link - 2017 results](https://www.reddit.com/r/MachineLearning/comments/63vfst/d_google_brain_residency_results/)],[[2015 - Link Results](https://www.reddit.com/r/MachineLearning/comments/3px8l0/google_brain_residency_program/)]
+- If rejected [[Link](https://www.reddit.com/r/MachineLearning/comments/8hj0ly/d_programs_to_consider_after_rejection_for_ai/)]
 
 
 ### Quora
