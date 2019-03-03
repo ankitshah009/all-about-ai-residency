@@ -3,33 +3,30 @@
 AI residency programs information
 ================================
 
-## Companies and their program links
+# List of AI Residency Programs
 
-#### Uber AI Residency - https://eng.uber.com/uber-ai-residency/ - 
-##### 2019 link - https://eng.uber.com/ai-residency-2019/
+## 2019
 
-#### Facebook AI Residency - https://research.fb.com/programs/facebook-ai-research-residency-program/
-
-#### Google AI residency - https://ai.google/research/join-us/ai-residency/
-
-#### Microsoft AI Residency - https://www.microsoft.com/en-us/research/academic-program/microsoft-ai-residency-program/
-
-#### Clova AI Residency - https://clova.ai/m/en/research/careers.html
-
-#### Open AI Fellow - https://blog.openai.com/openai-fellows/
-
-#### Intel AI Residency - https://databricks.com/jobs/intel-ai-residency
-
-#### PFN AI Residency - https://www.preferred-networks.jp/en/news/residency-program2018-2019tokyo
-
-#### NVIDIA AI Residency - https://research.nvidia.com/research-residency 
+- Koninklijke Bibliotheek Researcher-in-residence [[Link](https://www.kb.nl/organisatie/vacatures-en-stages/researcher-in-residence)]
+- Google Residency [[Link](https://ai.google/research/join-us/ai-residency/)]
+- OpenAI 2019 Winter Scholars [[Link](https://blog.openai.com/openai-scholars-2019/)]. Application Deadline: Nov 16, 2018.
+- 2019 Spring NAVER Clova AI Research Global Residency Program [[Link](https://clova.ai/en/research/careers.html)]. Application Deadline: Oct 31, 2018, Extended to: Nov 15, 2018.
+- Nvidia AI Research Residency [[Link](https://research.nvidia.com/research-residency)]
+- Intel AI Residency [[Link](https://jobs.intel.com/page/show/ai-jobs-ai-internships-residency?ai-jobs-ai-internships-residency)]
+- IBM AI Residency Program [[Link]](https://careers.ibm.com/ShowJob/Id/508504/IBM-Research-AI-Residency-Program/?lang=en)
+- Microsoft AI Residency Program [[Link](https://www.microsoft.com/en-us/research/academic-program/microsoft-ai-residency-program/)]. Application Deadline: Jan 31, 2019.
+- Uber AI Residency Program [[Link](https://careersinfo.uber.com/ai-residency)]. Application Deadline: Jan 13, 2019.
+- Shell AI Residency Program [[Link](https://www.shell.com/energy-and-innovation/overcoming-technology-challenges/digital-innovation/artificial-intelligence/advancing-the-digital-revolution.html)].
+- Facebook AI Residency Program [[Link](https://research.fb.com/programs/facebook-ai-residency-program/)]. Application Deadline: Monday, January 28, 2019 at 5:00 pm PST.
+- PAI Fellowship Program  [[Link](https://www.partnershiponai.org/fellowship-program/)]
+- Google AI residency [[Link](https://docs.google.com/document/d/14nNwC1T0oANp4qFYeKupGh4w5lZUDmA9jUMi2YW7Z7k/edit?usp=sharing)]
+- PFN AI Residency [[Link](https://www.preferred-networks.jp/en/news/residency-program2018-2019tokyo)]
+- Clova AI Residency [[Link](https://clova.ai/m/en/research/careers.html)]
+- Open AI Fellow [[Link](https://blog.openai.com/openai-fellows/)]
 
 ## How to prepare
 
-#### Google Brain Residency - https://www.quora.com/How-should-I-prepare-for-the-interview-of-Google-Brain-Residency-program-in-terms-of-number-of-rounds-of-interview-topics-for-which-I-should-prepare-and-a-typical-profile-required-to-increase-the-chance-of-being-selected
-
-#### Google AI residency - https://docs.google.com/document/d/14nNwC1T0oANp4qFYeKupGh4w5lZUDmA9jUMi2YW7Z7k/edit?usp=sharing
-
+- Google Brain Residency [[Link] (https://www.quora.com/How-should-I-prepare-for-the-interview-of-Google-Brain-Residency-program-in-terms-of-number-of-rounds-of-interview-topics-for-which-I-should-prepare-and-a-typical-profile-required-to-increase-the-chance-of-being-selected)]
 
 
 ### Additional information
@@ -123,22 +120,7 @@ Tech leaders Intel, Uber, and Facebook offered year-long AI residency programs t
 Japanese software development company Preferred Networks also organized a 4-month AI residency program this year. The company opened applications for their 2019 intern program in September. The application deadline has not yet been announced. Preferred Networks is renown for applying real-time machine-learning technologies to new applications in the field of IOT.
 
 
-# List of AI Residency Programs
 
-## 2019
-
-- Koninklijke Bibliotheek Researcher-in-residence [[Link](https://www.kb.nl/organisatie/vacatures-en-stages/researcher-in-residence)]
-- Google Residency [[Link](https://ai.google/research/join-us/ai-residency/)]
-- OpenAI 2019 Winter Scholars [[Link](https://blog.openai.com/openai-scholars-2019/)]. Application Deadline: Nov 16, 2018.
-- 2019 Spring NAVER Clova AI Research Global Residency Program [[Link](https://clova.ai/en/research/careers.html)]. Application Deadline: Oct 31, 2018, Extended to: Nov 15, 2018.
-- Nvidia AI Research Residency [[Link](https://research.nvidia.com/research-residency)]
-- Intel AI Residency [[Link](https://jobs.intel.com/page/show/ai-jobs-ai-internships-residency?ai-jobs-ai-internships-residency)]
-- IBM AI Residency Program [[Link]](https://careers.ibm.com/ShowJob/Id/508504/IBM-Research-AI-Residency-Program/?lang=en)
-- Microsoft AI Residency Program [[Link](https://www.microsoft.com/en-us/research/academic-program/microsoft-ai-residency-program/)]. Application Deadline: Jan 31, 2019.
-- Uber AI Residency Program [[Link](https://careersinfo.uber.com/ai-residency)]. Application Deadline: Jan 13, 2019.
-- Shell AI Residency Program [[Link](https://www.shell.com/energy-and-innovation/overcoming-technology-challenges/digital-innovation/artificial-intelligence/advancing-the-digital-revolution.html)].
-- Facebook AI Residency Program [[Link](https://research.fb.com/programs/facebook-ai-residency-program/)]. Application Deadline: Monday, January 28, 2019 at 5:00 pm PST.
-- PAI Fellowship Program  [[Link](https://www.partnershiponai.org/fellowship-program/)]
 
 ### Reddit
 - 2019 AI Residency Thread [[Link](https://www.reddit.com/r/MachineLearning/comments/9uaz3m/d_2019_ai_residency_thread_program_deadlines)]
