@@ -1,8 +1,5 @@
 # all-about-ai-residency
 
-AI residency programs information
-================================
-
 # List of AI Residency Programs
 
 ## 2019
@@ -24,26 +21,25 @@ AI residency programs information
 - Clova AI Residency [[Link](https://clova.ai/m/en/research/careers.html)]
 - Open AI Fellow [[Link](https://blog.openai.com/openai-fellows/)]
 
-## How to prepare
+### How to prepare
 
-- Google Brain Residency [[Link] (https://www.quora.com/How-should-I-prepare-for-the-interview-of-Google-Brain-Residency-program-in-terms-of-number-of-rounds-of-interview-topics-for-which-I-should-prepare-and-a-typical-profile-required-to-increase-the-chance-of-being-selected)]
+- Google Brain Residency [[Link(https://www.quora.com/How-should-I-prepare-for-the-interview-of-Google-Brain-Residency-program-in-terms-of-number-of-rounds-of-interview-topics-for-which-I-should-prepare-and-a-typical-profile-required-to-increase-the-chance-of-being-selected)]
 
 ### Reddit
 - 2019 AI Residency Thread [[Link](https://www.reddit.com/r/MachineLearning/comments/9uaz3m/d_2019_ai_residency_thread_program_deadlines)]
-- Google AI Residency Program: [[Link 1](https://www.reddit.com/r/MachineLearning/comments/7rajic/d_anyone_heard_back_from_google_ai_residency/)],
+- Google AI Residency Program: [[Link 1](https://www.reddit.com/r/MachineLearning/comments/7rajic/d_anyone_heard_back_from_google_ai_residency/),[2019-discussion Link](https://www.reddit.com/r/MachineLearning/comments/9uyzc1/d_google_ai_residency_2019_applicants_discussion/)],
 [[Link 2](https://www.reddit.com/r/MachineLearning/comments/690ixs/d_google_brain_residency_requirements_and/)],
-- Microsoft AI Residency Program [[Link 1](https://www.reddit.com/r/MachineLearning/comments/7u2a19/news_microsoft_ai_residency/)]
+- Microsoft AI Residency Program [[Link 1](https://www.reddit.com/r/MachineLearning/comments/7u2a19/news_microsoft_ai_residency/), [2019 Discussion Link](https://www.reddit.com/r/MachineLearning/comments/ahshx7/d_microsoft_ai_residency_2019_discussion/?st=jrc52rte&sh=33ed04bf)]
 - Facebook AI Residency Program [[Link 1](https://www.reddit.com/r/MachineLearning/comments/7w5unr/d_has_anybody_heard_back_from_facebook_ai/)],
 [[Link 2](https://www.reddit.com/r/MachineLearning/comments/7xxng0/d_anyone_hear_back_from_facebook_ai_research_fair/)],
-[[Link 3](https://www.reddit.com/r/MachineLearning/comments/7t9y9f/discussion_facebook_ai_residency_closed_early/)]
+[[Link 3](https://www.reddit.com/r/MachineLearning/comments/7t9y9f/discussion_facebook_ai_residency_closed_early/), [Link4](https://www.reddit.com/r/MachineLearning/comments/ava6ou/d_has_anyone_heard_from_facebook_ai_residency_for/), [2018-Discussion Link](https://www.reddit.com/r/MachineLearning/comments/7w5unr/d_has_anybody_heard_back_from_facebook_ai/)]
 - Uber AI Residency Program: [[Link](https://www.reddit.com/r/MachineLearning/comments/7yycov/d_introducing_the_uber_ai_residency/)]
-- Microsoft Residency Discussion [[Link](https://www.reddit.com/r/MachineLearning/comments/ahshx7/d_microsoft_ai_residency_2019_discussion/?st=jrc52rte&sh=33ed04bf)]
 
 
 ### Quora
 
-- Prepare for the Google AI Residency Program [[Link](https://www.quora.com/How-should-I-prepare-for-the-interview-of-Google-Brain-Residency-program-in-terms-of-number-of-rounds-of-interview-topics-for-which-I-should-prepare-and-a-typical-profile-required-to-increase-the-chance-of-being-selected)]
-- Profile for Google AI Program [[Link](https://www.quora.com/Has-anyone-been-accepted-to-the-Google-Brain-Residency-Program-What-was-your-profile-when-you-applied)]
+- Prepare for the Google AI Residency Program [[Link(https://www.quora.com/How-should-I-prepare-for-the-interview-of-Google-Brain-Residency-program-in-terms-of-number-of-rounds-of-interview-topics-for-which-I-should-prepare-and-a-typical-profile-required-to-increase-the-chance-of-being-selected)]
+- Profile for Google AI Program [[Link(https://www.quora.com/Has-anyone-been-accepted-to-the-Google-Brain-Residency-Program-What-was-your-profile-when-you-applied)]
 
 ### Blog
 
@@ -53,13 +49,6 @@ AI residency programs information
 - [Google AI Interview questions](https://medium.com/acing-ai/google-ai-interview-questions-acing-the-ai-interview-1791ad7dc3ae)
 - [Microsoft AI Interview questions](https://medium.com/acing-ai/microsoft-ai-interview-questions-acing-the-ai-interview-be6972f790ea)
 - [Writing a Google AI Residency Cover Letter](https://colinraffel.com/blog/writing-a-google-ai-residency-cover-letter.html)
-
-### Reddit Links
-
-- [Google AI Residency Discussion 2019]( https://www.reddit.com/r/MachineLearning/comments/9uyzc1/d_google_ai_residency_2019_applicants_discussion/.)
-- [AI Residency Discussion 2019](https://www.reddit.com/r/MachineLearning/comments/9uaz3m/d_2019_ai_residency_thread_program_deadlines/)
-- [Facebook AI Residency 2019 updates](https://www.reddit.com/r/MachineLearning/comments/ava6ou/d_has_anyone_heard_from_facebook_ai_residency_for/)
-- [Facebook AI Residency 2018 updates](https://www.reddit.com/r/MachineLearning/comments/7w5unr/d_has_anybody_heard_back_from_facebook_ai/)
 
 ## 2018
 
