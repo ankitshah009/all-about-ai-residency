@@ -25,8 +25,9 @@
 
 - Google Brain Residency [[Link](https://www.quora.com/How-should-I-prepare-for-the-interview-of-Google-Brain-Residency-program-in-terms-of-number-of-rounds-of-interview-topics-for-which-I-should-prepare-and-a-typical-profile-required-to-increase-the-chance-of-being-selected)]
 - Jeff Dean's talk on residency [[Link](https://www.reddit.com/r/MachineLearning/comments/55c4id/jeff_dean_talks_google_brain_and_brain_residency/)]
-- Microsoft AI Residency [[Glassdoor-Link](https://www.glassdoor.com/Interview/Microsoft-Interview-Questions-E1651.htm?filter.jobTitleExact=AI+Residency+Program+%28Cambridge%29)]
-- Google Engineering Residency [[Glassdoor-Link](https://www.glassdoor.com/Interview/Google-Engineering-Residency-Interview-Questions-EI_IE9079.0,6_KO7,28.htm)]
+- Microsoft AI Residency [[Glassdoor-Link](https://www.glassdoor.com/Interview/Microsoft-Interview-Questions-E1651.htm?filter.jobTitleExact=AI+Residency+Program+%28Cambridge%29),[[AI- resident interview Link 2](https://www.glassdoor.com/Interview/Microsoft-AI-Residency-Interview-Questions-EI_IE1651.0,9_KO10,22.htm)]
+- Google Engineering Residency [[Glassdoor-Link](https://www.glassdoor.com/Interview/Google-Engineering-Residency-Interview-Questions-EI_IE9079.0,6_KO7,28.htm),[AI residency - Link](https://www.glassdoor.com/Interview/Google-Google-AI-Residency-Interview-Questions-EI_IE9079.0,6_KO7,26.htm)]
+- Career Advice - Job in AI [[Link](https://www.glassdoor.com/blog/how-to-get-a-job-in-ai/)]
 
 
 ### Reddit
