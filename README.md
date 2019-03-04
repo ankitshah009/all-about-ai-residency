@@ -25,6 +25,7 @@
 
 - Google Brain Residency [[Link](https://www.quora.com/How-should-I-prepare-for-the-interview-of-Google-Brain-Residency-program-in-terms-of-number-of-rounds-of-interview-topics-for-which-I-should-prepare-and-a-typical-profile-required-to-increase-the-chance-of-being-selected)]
 - Jeff Dean's talk on residency [[Link](https://www.reddit.com/r/MachineLearning/comments/55c4id/jeff_dean_talks_google_brain_and_brain_residency/)]
+- Microsoft AI Residency [[Glassdoor-Link](https://www.glassdoor.com/Interview/Microsoft-Interview-Questions-E1651.htm?filter.jobTitleExact=AI+Residency+Program+%28Cambridge%29)]
 
 
 ### Reddit
