@@ -40,6 +40,7 @@
 [[Link 3](https://www.reddit.com/r/MachineLearning/comments/7t9y9f/discussion_facebook_ai_residency_closed_early/)], [[Link4](https://www.reddit.com/r/MachineLearning/comments/ava6ou/d_has_anyone_heard_from_facebook_ai_residency_for/)], [[2018-Discussion Link](https://www.reddit.com/r/MachineLearning/comments/7w5unr/d_has_anybody_heard_back_from_facebook_ai/)]
 - Uber AI Residency Program: [[Link](https://www.reddit.com/r/MachineLearning/comments/7yycov/d_introducing_the_uber_ai_residency/)],[[Hackerrank test 2019](https://www.reddit.com/r/artificial/comments/ajc9x1/uber_residency_hackerrank_test/)], [[2019 - Response](https://www.reddit.com/r/artificial/comments/any7h5/uber_ai_residency_response/)]
 - IBM AI Residency Program [[Link](https://www.reddit.com/user/rockstar0404/comments/ariclc/ibm_ai_residency_2019/)]
+- Intel AI Residency Program [[Link](https://www.reddit.com/user/rockstar0404/comments/b7p3lb/intel_ai_residency_2019/)]
 - Google Brain AI Residency [[Link - 2017 results](https://www.reddit.com/r/MachineLearning/comments/63vfst/d_google_brain_residency_results/)],[[2015 - Link Results](https://www.reddit.com/r/MachineLearning/comments/3px8l0/google_brain_residency_program/)]
 - If rejected [[Link](https://www.reddit.com/r/MachineLearning/comments/8hj0ly/d_programs_to_consider_after_rejection_for_ai/)]
 
