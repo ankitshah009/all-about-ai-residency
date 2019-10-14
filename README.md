@@ -163,8 +163,8 @@ Tech leaders Intel, Uber, and Facebook offered year-long AI residency programs t
 
 Japanese software development company Preferred Networks also organized a 4-month AI residency program this year. The company opened applications for their 2019 intern program in September. The application deadline has not yet been announced. Preferred Networks is renown for applying real-time machine-learning technologies to new applications in the field of IOT.
 
-### Comments
+### Comments and Credits
 
 - Feel free to send pull requests for the repository. 
 - Plan to keep this updated in the long term
-- Credits - Some content is adapted from Awesome AI Residency repository (https://github.com/dangkhoasdc/awesome-ai-residency)
+- Credits - Some links are adapted Awesome AI Residency repository (https://github.com/dangkhoasdc/awesome-ai-residency)
