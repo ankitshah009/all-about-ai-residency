@@ -4,6 +4,11 @@
 
 ## All year internships: 
 - MILA (6 months)[[Link](https://mila.quebec/en/admission-process-for-interns/)]
+- DeepkaphaAI (12 months)[[Link](https://deepkapha.ai/enroll/)]
+
+## 2021
+- Apple AI Residency Program [[Link]](https://machinelearning.apple.com/updates/introducing-aiml-residency-program).
+- Open AI Scholars Program : Fall 2020 [[Link]](https://jobs.lever.co/openai/90311c53-38a6-467d-98ca-2d2735fa1a8a).
 
 ## 2020 
 - Google X AI Residency [[Link](https://x.company/careers-at-x/4225880002/)]
