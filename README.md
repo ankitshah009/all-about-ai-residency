@@ -190,4 +190,4 @@ Japanese software development company Preferred Networks also organized a 4-mont
 - Feel free to send pull requests for the repository. 
 - Plan to keep this updated in the long term
 - Credits - Some links are adapted Awesome AI Residency repository (https://github.com/dangkhoasdc/awesome-ai-residency)
-- DM @ashah007 on twitter for questions. I was a finalist for Microsoft and Facebook AI Residency programs - Received another job opportunity equally appealing at the time. 
+- DM @ashah0052 on twitter for questions. I was a finalist for Microsoft and Facebook AI Residency programs - Received another job opportunity equally appealing at the time. 
