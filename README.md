@@ -5,10 +5,34 @@
 ## All year internships: 
 - MILA (6 months)[[Link](https://mila.quebec/en/admission-process-for-interns/)]
 - DeepkaphaAI (12 months)[[Link](https://deepkapha.ai/enroll/)]
+- VinAI AI Residency [[Link](https://www.vinai.io/ai-residency/)]
+
+## All year bootcamps (hands-on supervised projects):
+- Fellowship.AI [[Link]](https://www.fellowship.ai/apply)
+- PiCampus School [[Link]](https://picampus-school.com/programme/school-of-artificial-intelligence/)
+
+## 2023
+- OpenAI Residency-Research [[Link]](https://boards.greenhouse.io/openai/jobs/4613337004)
+- OpenAI Residency-Software Engineering [[Link]](https://boards.greenhouse.io/openai/jobs/4613303004)
+- Meta AI Residency [[Link]](https://ai.facebook.com/join-us/residency-program/)
+- Apple The 2023 AI/ML Residency Program [[Link]](https://machinelearning.apple.com/updates/aiml-residency-program-application-2023)
+- DeepLabCut AI Residency [[Link]](https://www.deeplabcutairesidency.org/)
+- Salesforce AI Residency Program [[link]](https://www.salesforce.com/company/careers/university-recruiting/ai-residency/)
+- Toyota Research Institute AI Resident [[Link]](https://jobs.lever.co/tri/43c61326-ba4a-4215-84b4-0c3db8896381)
+
+## 2022
+- OpenAI Residency [[Link]](https://openai.com/blog/openai-residency/)
+- Anthropic [[Link]](https://jobs.lever.co/Anthropic/6fdef6f7-b3fe-4a5b-b504-aea0c12168d3)
+- Hugging Face [[Link]](https://huggingface.co/blog/ai-residency)
+- NVIDIA AI Research Residency [[Link]](https://www.nvidia.com/en-us/research/ai-research-residency/)
+- Novartis AI for Life Residency Program [[Link](https://www.novartis.com/about/strategy/data-and-digital/artificial-intelligence/novartis-ai-life-residency-program)]
+- Allen AI Predoctoral Young Investigator [[Link]](https://boards.greenhouse.io/thealleninstitute/jobs/2138908)
 
 ## 2021
 - Apple AI Residency Program [[Link]](https://machinelearning.apple.com/updates/introducing-aiml-residency-program).
 - Open AI Scholars Program : Fall 2020 [[Link]](https://jobs.lever.co/openai/90311c53-38a6-467d-98ca-2d2735fa1a8a).
+- IBM AI Residency Program : Fall 2021 [[link]](https://www.research.ibm.com/artificial-intelligence/careers/ai-residency/#about)
+- Shell.ai Residency Programme [[Link](https://www.shell.com/energy-and-innovation/digitalisation/digital-technologies/shell-ai/shell-ai-residency-programme.html)]
 
 ## 2020 
 - Google X AI Residency [[Link](https://x.company/careers-at-x/4225880002/)]
